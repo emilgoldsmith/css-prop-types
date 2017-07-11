@@ -1,0 +1,22 @@
+{
+  "name": "css-prop-types",
+  "version": "0.0.0",
+  "description": "An extension for React prop types to support validating css as props",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilgoldsmith/css-prop-types.git"
+  },
+  "keywords": [
+    "css",
+    "prop-types",
+    "react",
+    "styled-components"
+  ],
+  "author": "Emil Goldsmith Olesen <emil.goldsmith@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilgoldsmith/css-prop-types/issues"
+  },
+  "homepage": "https://github.com/emilgoldsmith/css-prop-types#readme"
+}
